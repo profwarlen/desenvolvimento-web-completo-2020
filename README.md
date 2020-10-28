@@ -1,4 +1,12 @@
-# Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos
+
+
+# Descrição
+
+Neste repositório estou gravando as minhas práticas do curso citado abaixo
+
+
+
+## Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos
 
 Domine Web - 20 Cursos - HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais
 
