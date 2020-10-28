@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula de formulário</title>
+</head>
+<body>
+    <h1>Login</h1>
+
+    <form action="processa.php" method="post">
+            Login:<br>
+            <input type="text" name="login"><br>
+            Senha:<br>
+            <input type="password" name="senha"><br>
+            <input type="submit" value="Logar">
+    </form>
+
+    <form action="">
+
+        <h2>Cadastra-se</h2>
+        Login:<br>
+        <input type="text" name="login"><br>
+        Sexo:<br>
+        <input type="radio" name="sexo" value="M">Maculino<br>
+        <input type="radio" name="sexo" value="F">Feminino<br>
+        
+        <br>Interesses<br>
+        <input type="checkbox" name="interesses">Futebol<br>
+        <input type="checkbox" name="interesses">Volei<br>
+        <input type="checkbox" name="interesses">Tênis<br>
+
+        Estados<br>
+        <select>
+            <option value="MG">MG</option>
+            <option value="SP">SP</option>
+        </select><br>
+
+        Observações<br>
+
+        <textarea>
+            
+        </textarea>
+        <br>
+        <input type="submit" value="Confirmar">
+
+
+    </form>
+
+</body>
+</html>
